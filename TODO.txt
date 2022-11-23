@@ -1,0 +1,9 @@
+-Separate components more
+-Health system
+-Random animal encounters
+-Random bandit encounters
+-Nicer interface
+-Towns?
+-Shops?
+-Difficulty scales with turns
+-End-game condition? Like travel x distance before turn 100?
